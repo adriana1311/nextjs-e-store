@@ -83,7 +83,7 @@ const RegistrationForm: React.FC = () => {
       </form>
       <p className="mt-6 text-gray-700">
         Already have an account?{" "}
-        <Link href="/">
+        <Link href="./">
           <span className="text-yellow-500 cursor-pointer hover:underline">
             Login
           </span>

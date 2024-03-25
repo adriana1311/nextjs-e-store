@@ -70,7 +70,7 @@ const Login: React.FC = () => {
       </form>
       <p className="mt-6 text-gray-700">
         Donot have an account?{" "}
-        <Link href="/pages/register">
+        <Link href="./pages/register">
           <span className="text-yellow-500 cursor-pointer hover:underline">
             Register
           </span>
